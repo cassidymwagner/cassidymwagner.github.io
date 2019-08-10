@@ -2379,7 +2379,7 @@ input, select, textarea {
 					}
 
 					ul.pagination li > .page.active:active {
-						background-color: #B1A5CF;
+						background-color: #90C18E;
 					}
 
 			ul.pagination li:first-child {
@@ -2578,7 +2578,7 @@ input, select, textarea {
 			input[type="button"].primary:active,
 			button.primary:active,
 			.button.primary:active {
-				background-color: #B1A5CF;
+				background-color: #90C18E;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
